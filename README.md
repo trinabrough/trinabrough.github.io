@@ -1,6 +1,6 @@
 # Trina Brough CS Career
 ## Database Administration Days
-I worked for 5 years as a database developer. I also worked at system analysis and design as well as writing stored procedures.
+After earning a B.B.A. in Computer Information Systems, I worked for 5 years as a database developer. I also was involved in system analysis and design as well as writing stored procedures.
 ## Break to raise humans
 I have spent the last 20 years raising 5 amazing people.
 ## Return for Data Science
